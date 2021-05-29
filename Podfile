@@ -1,7 +1,8 @@
-source 'https://github.com/CocoaPods/Specs.git'
+source 'https://cdn.cocoapods.org/'
 
 platform :ios, '11.4'
 inhibit_all_warnings!
+use_frameworks!
 
 target 'AimyboxExample' do
   use_frameworks!

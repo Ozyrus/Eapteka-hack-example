@@ -195,7 +195,7 @@ class MainViewController: UIViewController {
     func initializeAimybox() {
         showLoading()
         // swiftlint:disable:next line_length
-        let aiRoute = URL(static: "https://bot.jaicp.com/chatapi/webhook/zenbox/JdAFcjNb:13156b1d7f4adcc27196cb87e5a987362510f7d2")
+        let aiRoute = URL(static: "https://bot.jaicp.com/chatapi/webhook/zenbox/ePfFKFwp:3202dcf95db49156702d4849a0dd6f5406affdd6")
         let folderID = "b1gvt2nubho67sa74uqh"
         let provider = IAMTokenGenerator(passport: "AgAAAAAjWu2CAATuwWlt16g0F0IYrunICaVEoUs")
         let synthesisConfig = YandexSynthesisConfig(voice: "kuznetsov_male", emotion: "good", speed: 1.0)

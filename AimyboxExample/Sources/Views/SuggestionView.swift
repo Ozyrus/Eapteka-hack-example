@@ -4,10 +4,10 @@ final
 class SuggestionView: UIStackView {
 
     var suggestions: [ButtonReply] = [
-        SuggestionReply(text: "Какая погода будет завтра"),
-        SuggestionReply(text: "Какой курс акций ВТБ?"),
-        SuggestionReply(text: "Какой курс доллара?"),
-        SuggestionReply(text: "Давай переведем деньги"),
+        SuggestionReply(text: "Выбрать товар"),
+        SuggestionReply(text: "Подобрать аналог"),
+        SuggestionReply(text: "Поставить напоминание"),
+        SuggestionReply(text: "Что ты умеешь"),
     ] {
         didSet {
             isHidden = suggestions.isEmpty

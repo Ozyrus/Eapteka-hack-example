@@ -259,7 +259,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 031729CD260E1CF1004608F2 /* Build configuration list for PBXProject "AimyboxExample" */;
+			buildConfigurationList = 031729CD260E1CF1004608F2 /* Build configuration list for PBXProject "eaptekahack" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -530,6 +530,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.imbarus.eaptekahack;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -552,6 +553,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.imbarus.eaptekahack;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -563,7 +565,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		031729CD260E1CF1004608F2 /* Build configuration list for PBXProject "AimyboxExample" */ = {
+		031729CD260E1CF1004608F2 /* Build configuration list for PBXProject "eaptekahack" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				031729E4260E1CF3004608F2 /* Debug */,
